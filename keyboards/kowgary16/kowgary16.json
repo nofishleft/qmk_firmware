@@ -1,0 +1,15 @@
+{
+  "name": "ChrisChrisLoLo Kowgary16",
+  "vendorId": "0x636C",
+  "productId": "0x0000",
+  "matrix": {"rows": 4, "cols": 4},
+  "layouts": {
+    "keymap": [
+      {"name": "Kowgary16"},
+      ["0,0","0,1","0,2",{"c":"#aaaaaa"},"0,3"],
+      [{"c":"#cccccc"},"1,0","1,1","1,2",{"c":"#aaaaaa"},"1,3"],
+      [{"c":"#cccccc"},"2,0","2,1","2,2",{"c":"#aaaaaa"},"2,3"],
+      ["3,0","3,1","3,2","3,3"]
+    ]
+  }
+}
